@@ -8,6 +8,11 @@ Funkcjonalności:
 3.    Program pamięta które aforyzmy wyświetlił w jaki dzień i nie powtarza wyświetlonych.
 4.    System oceny aforyzmu.
 5.    Po uruchomieniu program ma zagrać krótką melodyjkę.
-6.    Jedna zaproponowane przez grupę.
+6.    Tryb ciemny
+7.    Jedna zaproponowane przez grupę. (<- edytować)
 
 ## Uczestnicy
+
+## Terminy
+
+## Podział ról
