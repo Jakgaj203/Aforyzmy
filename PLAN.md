@@ -13,7 +13,6 @@ Funkcjonalności:
 
 ## Uczestnicy
 Michał Furgała
-
 Wojciech Jankowski
 Jakub Gajewski
 Jakub Janik
