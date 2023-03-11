@@ -9,6 +9,5 @@ Funkcjonalności:
 4.    System oceny aforyzmu.
 5.    Po uruchomieniu program ma zagrać krótką melodyjkę.
 6.    Jedna zaproponowane przez grupę.
-7.    Jedna zaproponowane przez grupę.
 
 ## Uczestnicy
