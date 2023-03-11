@@ -11,7 +11,8 @@ Funkcjonalności:
 6.    Tryb ciemny
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
-## Uczestnicy i podział ról
+## Uczestnicy i podział ról :
+
 Michał Furgała
 
 Wojciech Jankowski
