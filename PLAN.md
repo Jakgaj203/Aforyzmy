@@ -11,7 +11,7 @@ Funkcjonalności:
 6.    Tryb ciemny
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
-## Uczestnicy
+## Uczestnicy i podział ról
 Michał Furgała
 
 Wojciech Jankowski
@@ -26,4 +26,3 @@ Daniel Głąbicki
 ## Terminy
 13.03.2023 - rozpisanie planu działania i podziału ról
 
-## Podział ról
