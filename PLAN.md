@@ -11,17 +11,16 @@ Funkcjonalności:
 6.    Tryb ciemny
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
-## Uczestnicy i podział ról :
+## Uczestnicy i podział ról
+Michał Furgała - 
 
-Michał Furgała
+Wojciech Jankowski -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
 
-Wojciech Jankowski
+Jakub Gajewski - organizacja repozytorium i projektu w Github, interfejs graficzny (GUI)
 
-Jakub Gajewski
+Jakub Janik - koordynacja działań, podnoszenie morali grupy
 
-Jakub Janik
-
-Daniel Głąbicki
+Daniel Głąbicki - sporządzenie bazy aforyzmów, organizacja planu działania
 
 
 ## Terminy
