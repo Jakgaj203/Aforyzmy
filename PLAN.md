@@ -12,13 +12,13 @@ Funkcjonalności:
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
 ## Uczestnicy i podział ról
-Michał Furgała - software testing, debugging
+Michał Furgała - software testing, debugging, organizacja dokumentacji
 
 Wojciech Jankowski (szef totalny) -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
 
 Jakub Gajewski - organizacja repozytorium i projektu w Github, interfejs graficzny (GUI)
 
-Jakub Janik - koordynacja działań
+Jakub Janik - koordynacja działań, prezentacja projektu i działania aplikacji
 
 Daniel Głąbicki - sporządzenie bazy aforyzmów, organizacja planu działania
 
