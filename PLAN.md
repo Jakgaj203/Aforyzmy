@@ -9,7 +9,7 @@ Funkcjonalności:
 4.    System oceny aforyzmu.
 5.    Po uruchomieniu program ma zagrać krótką melodyjkę.
 6.    Tryb ciemny
-7.    Jedna zaproponowane przez grupę. (<- edytować)
+7.    Wysyłanie przypomnienia o codziennym aforyzmie na maila (ewentualnie: dostosowanie czcionki w aplikacji)
 
 ## Uczestnicy i podział ról
 Michał Furgała - software testing, debugging, organizacja dokumentacji
