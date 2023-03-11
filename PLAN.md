@@ -13,10 +13,15 @@ Funkcjonalności:
 
 ## Uczestnicy
 Michał Furgała
+
 Wojciech Jankowski
+
 Jakub Gajewski
+
 Jakub Janik
+
 Daniel Głąbicki
+
 
 ## Terminy
 13.03.2023 - rozpisanie planu działania i podziału ról
