@@ -18,7 +18,7 @@ Wojciech Jankowski (szef totalny) -  stworzenie zasadniczej części programu "A
 
 Jakub Gajewski - organizacja repozytorium i projektu w Github, interfejs graficzny (GUI)
 
-Jakub Janik - koordynacja działań, podnoszenie morali grupy
+Jakub Janik - koordynacja działań
 
 Daniel Głąbicki - sporządzenie bazy aforyzmów, organizacja planu działania
 
