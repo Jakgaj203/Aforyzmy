@@ -12,9 +12,9 @@ Funkcjonalności:
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
 ## Uczestnicy i podział ról
-Michał Furgała - :-)
+Michał Furgała - testowanie działania programu, szukanie błędów
 
-Wojciech Jankowski -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
+Wojciech Jankowski (szef totalny) -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
 
 Jakub Gajewski - organizacja repozytorium i projektu w Github, interfejs graficzny (GUI)
 
@@ -25,4 +25,6 @@ Daniel Głąbicki - sporządzenie bazy aforyzmów, organizacja planu działania
 
 ## Terminy
 13.03.2023 - rozpisanie planu działania i podziału ról
+27.03.2023 - stworzenie struktury programu, bazy aforyzmów
+
 
