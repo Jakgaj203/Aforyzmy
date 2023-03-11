@@ -6,17 +6,11 @@ Temat 5: Aforyzmy na każdy dzień
 Funkcjonalności:
 
 1.    Baza conajmniej 100 aforyzmów.
-2.    
 3.    Program po uruchomieniu wyświetla jeden aforyzm na dzień.
-4.    
 5.    Program pamięta które aforyzmy wyświetlił w jaki dzień i nie powtarza wyświetlonych.
-6.    
 7.    System oceny aforyzmu.
-8.    
 9.    Po uruchomieniu program ma zagrać krótką melodyjkę.
-10.    
 11.    Tryb ciemny
-12.    
 13.    Wysyłanie przypomnienia o codziennym aforyzmie na maila (ewentualnie: dostosowanie czcionki w aplikacji)
 
 ## Uczestnicy i podział ról
