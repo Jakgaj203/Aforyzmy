@@ -12,7 +12,7 @@ Funkcjonalności:
 7.    Jedna zaproponowane przez grupę. (<- edytować)
 
 ## Uczestnicy i podział ról
-Michał Furgała - 
+Michał Furgała - :-)
 
 Wojciech Jankowski -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
 
