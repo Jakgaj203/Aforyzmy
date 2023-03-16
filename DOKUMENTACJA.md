@@ -50,6 +50,7 @@ Rozpisanie planu projektu i terminów
 Wojciech Jankowski - Napisanie szkieletu kodu w języki Python, dodanie wstępnej, 5-elementowej bazy aforyzmów, a także efektu dźwiękowego.
 
 Michał Furgała - uzupełnienie dokumentacji.
+
 ![obraz](https://user-images.githubusercontent.com/127214880/225744889-e19be129-15d1-4b58-bac4-1e830c774d47.png)
 ![obraz](https://user-images.githubusercontent.com/127214880/225745088-23b1207b-f175-4274-91f7-ba12b05cda9d.png)
 ![obraz](https://user-images.githubusercontent.com/127214880/225745685-5a7f4e3b-791a-406a-8f82-4aebe6433c67.png)
