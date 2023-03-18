@@ -47,10 +47,21 @@ Rozpisanie planu projektu i terminów
 
 
 ## 16.03.2023r.
-Wojciech Jankowski - Napisanie szkieletu kodu w języki Python, dodanie wstępnej, 5-elementowej bazy aforyzmów, a także efektu dźwiękowego.
+Wojciech Jankowski - Napisanie szkieletu kodu, który wyświetla aforyzmy, a także opracowanie wstępnego interfejsu graficznego, w języki Python. Dodanie wstępnej, 5-elementowej bazy aforyzmów, a także efektu dźwiękowego.
 
 Michał Furgała - uzupełnienie dokumentacji.
 
 ![obraz](https://user-images.githubusercontent.com/127214880/225744889-e19be129-15d1-4b58-bac4-1e830c774d47.png)
 ![obraz](https://user-images.githubusercontent.com/127214880/225745088-23b1207b-f175-4274-91f7-ba12b05cda9d.png)
 ![obraz](https://user-images.githubusercontent.com/127214880/225745685-5a7f4e3b-791a-406a-8f82-4aebe6433c67.png)
+
+## 17.03.2023r.
+Wojciech Jankowski - uzupełnienie programu o funkcję, która przesyła każdego dnia jeden nowy aforyzm na podany email.
+
+Daniel Głąbicki - uzupełnienie bazy aforyzmów o ponad 100 kolejnych elementów.
+
+![obraz](https://user-images.githubusercontent.com/127214880/226106250-f2fa304b-4c3a-408f-bec0-30a67e05c680.png)
+![obraz](https://user-images.githubusercontent.com/127214880/226106271-a82db5a9-7f05-40d5-b6f4-1d7575a092ff.png)
+
+## 18.03.2023r.
+Michał Furgała - uzupełnienie dokumentacji.
