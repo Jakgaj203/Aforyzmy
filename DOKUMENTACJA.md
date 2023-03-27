@@ -45,6 +45,9 @@ Rozdzielenie zadań
 
 Rozpisanie planu projektu i terminów
 
+## Zajęcia 15.03.2023r.
+Jakub Janik - rezentacja poczynionych postępów w projekcie.
+
 
 ## 16.03.2023r.
 Wojciech Jankowski - Napisanie szkieletu kodu, który wyświetla aforyzmy, a także opracowanie wstępnego interfejsu graficznego, w języki Python. Dodanie wstępnej, 5-elementowej bazy aforyzmów, a także efektu dźwiękowego.
@@ -66,3 +69,6 @@ Daniel Głąbicki - uzupełnienie bazy aforyzmów o ponad 100 kolejnych element�
 
 ## 18.03.2023r.
 Michał Furgała - uzupełnienie dokumentacji.
+
+## Zajęcia 22.03.2023r.
+Jakub Janik - prezentacja postępów w projekcie. 
