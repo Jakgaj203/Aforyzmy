@@ -72,3 +72,6 @@ Michał Furgała - uzupełnienie dokumentacji.
 
 ## Zajęcia 22.03.2023r.
 Jakub Janik - prezentacja postępów w projekcie. 
+
+## 27.03.2023r.
+Michał Furgała - uzupełnienie dokumentacji.
