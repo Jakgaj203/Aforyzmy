@@ -3,6 +3,10 @@
 ## Nasze zadanie
 Temat 5: Aforyzmy na każdy dzień
 
+Link do zespołu: https://github.com/Jakgaj203/Aforyzmy
+
+Zespół 3
+
 Funkcjonalności:
 
 1.    Baza conajmniej 100 aforyzmów.
@@ -74,4 +78,9 @@ Michał Furgała - uzupełnienie dokumentacji.
 Jakub Janik - prezentacja postępów w projekcie. 
 
 ## 27.03.2023r.
+Michał Furgała - uzupełnienie dokumentacji.
+
+## Zajęcia 28.03.2023r.
+Jakub Janik - prezentacja postępów pracy nad projektem.
+
 Michał Furgała - uzupełnienie dokumentacji.
