@@ -5,7 +5,7 @@ Temat 5: Aforyzmy na każdy dzień
 
 Link do zespołu: https://github.com/Jakgaj203/Aforyzmy
 
-Zespół 3
+Zespół 3 Grupa labolatoryjna 3.
 
 Funkcjonalności:
 
