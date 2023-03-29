@@ -24,7 +24,7 @@ Wojciech Jankowski (szef totalny) -  stworzenie zasadniczej części programu "A
 
 Jakub Gajewski - organizacja repozytorium i projektu w Github, interfejs graficzny (GUI)
 
-Jakub Janik - koordynacja działań, prezentacja projektu i działania aplikacji
+Jakub Janik - koordynacja działań, prezentacja projektu, pomoc w tworzeniu dokumentacji
 
 Daniel Głąbicki - sporządzenie bazy aforyzmów, organizacja planu działania
 
@@ -85,7 +85,10 @@ Jakub Janik - prezentacja postępów pracy nad projektem.
 
 Michał Furgała - uzupełnienie dokumentacji.
 
+## 29.03.2023r.
+Jakub Janik - uzupełnienie dokumentacji.
 
 ## Wnioski
 Praca w grupie posiada wiele zalet. Dzięki podziałowi obowiązków, każdy pracujący nad projektem może skupić się na konkretnym elementem projektu, gałęźią, w której czuje się najlepiej. Ponadto współpracjuąc z innymi znacznie łatwiej rozwiązuje się napotykane w trakcie pracy problemy. Pomysły tworzone w grupie np. w trakcie burzy mózgów są również znacznie bardziej przemyślane, niż te, które powstają w trakcie indywidualnego działania, a powstałe błędy znacznie łatwiej znaleźć i skorygować, gdy kod przegląda więcej niż jedna osoba. Istotną przewagą projektów grupowych jest również wieksza niż w samodzielnej pracy motywacja. Wiedząc, że od naszej pracy zależą wyniki innych osób zmniejsza się tendencja do prokrastynacji. 
-Wadą pracy w grupie
+
+Pracując w zespole jest się zmuszonym niekiedy rezygnować z osobistych pomysłów. Niektórym może nie odpowiadać ciągła konieczność ustalania kompromisów, takie  osobowości mogą niekiedy powodować koflikty w grupie. Zdarzyć się może również, że dobry pomysł zaproponowany przez osobę, która nie jest przebojowa przegra z tym, co wymyśliła osoba, która jest bardziej elokwentna, popularna w grupie. Problemem niekiedy może być synchronizacja działań zespołu. Niewykonana przez jedną osobę praca  może negatywnie odzdziałować na inne osoby zarówno bezpośrednio np. ktoś nie dodał istotnego elementu programu, jak i pośrednio, taka osoba demotywuje innych członków projektu.
