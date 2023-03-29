@@ -84,3 +84,8 @@ Michał Furgała - uzupełnienie dokumentacji.
 Jakub Janik - prezentacja postępów pracy nad projektem.
 
 Michał Furgała - uzupełnienie dokumentacji.
+
+
+## Wnioski
+Praca w grupie posiada wiele zalet. Dzięki podziałowi obowiązków, każdy pracujący nad projektem może skupić się na konkretnym elementem projektu, gałęźią, w której czuje się najlepiej. Ponadto współpracjuąc z innymi znacznie łatwiej rozwiązuje się napotykane w trakcie pracy problemy. Pomysły tworzone w grupie np. w trakcie burzy mózgów są również znacznie bardziej przemyślane, niż te, które powstają w trakcie indywidualnego działania, a powstałe błędy znacznie łatwiej znaleźć i skorygować, gdy kod przegląda więcej niż jedna osoba. Istotną przewagą projektów grupowych jest również wieksza niż w samodzielnej pracy motywacja. Wiedząc, że od naszej pracy zależą wyniki innych osób zmniejsza się tendencja do prokrastynacji. 
+Wadą pracy w grupie
