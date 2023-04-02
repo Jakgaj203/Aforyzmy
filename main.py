@@ -10,6 +10,7 @@ System oceny aforyzmu.
 Po uruchomieniu program ma zagrać krótką melodyjkę.
 Tryb ciemny
 Wysyłanie przypomnienia o codziennym aforyzmie na maila (ewentualnie: dostosowanie czcionki w aplikacji)
+
 """
 
 from random import choice
@@ -54,34 +55,69 @@ def sound(func):
 
 
 @sound
-def graphic_design(a, list_last_aphorisms):
+def graphic_design(ap_t, list_last_aphorisms):
     window = Tk()
-    window.minsize(width=1000, height=250)
-    window.geometry("250x250")
+    window.maxsize(width=1280, height=480)
+    window.minsize(width=1280, height=480)
+    window.geometry('1280x480')
 
-    Label(window, text=date_today + " - " + a, font=("Times", 16), wraplength=1000).pack(fill=BOTH, expand=True)
-    Label(window, text="".join(list_last_aphorisms), justify=LEFT, font=("Times", 9), wraplength=1000).pack(fill=BOTH,
-                                                                                                            expand=True)
+    # Tworzenie Menu
+    my_menu = Menu(window)
+    window.config(menu=my_menu)
+
+    # Tworzenie tła i wypisywanie aforyzmów
+    window.iconbitmap(r'GR_3.ico')
+
+    bg = [PhotoImage(file="image.png"),
+          PhotoImage(file="image_dark_mode.png")]
+
+    my_canva = Canvas(window, width=1280, height=480)
+    my_canva.pack(fill='both', expand=True)
+    my_canva.create_image(0, 0, image=bg[0], anchor="nw")
+
+    my_canva.create_text(640, 80, text=ap_t, font=("Oswald", 25), fill="black", width=1000)
+    my_canva.create_text(310, 250, text="".join(list_last_aphorisms), font=("Oswald", 11), fill="black", width=600)
+
+    # Wpisywanie maila i zapisywanie go do pliku tekstowego
+    entry = Text(window, height=2, width=30)
+    my_canva.create_window(640, 460, window=entry)
+
+    def save_text():
+        text_file = open("email.txt", "w")
+        text_file.write(entry.get(1.0, END))
+        text_file.close()
+
+    button_send = Button(window, text="Wyślij na ten mail", command=save_text)
+    my_canva.create_window(840, 460, window=button_send)
+
+    # Opcja dark i light mode
+    def night_on():
+        my_canva.create_image(0, 0, image=bg[1], anchor="nw")
+
+        my_canva.create_text(640, 80, text=ap_t, font=("Oswald", 25), fill="white", width=1000)
+        my_canva.create_text(310, 250, text="".join(list_last_aphorisms), font=("Oswald", 11), fill="white", width=600)
+
+    def night_off():
+        my_canva.create_image(0, 0, image=bg[0], anchor="nw")
+
+        my_canva.create_text(640, 80, text=ap_t, font=("Oswald", 25), fill="black", width=1000)
+        my_canva.create_text(310, 250, text="".join(list_last_aphorisms), font=("Oswald", 11), fill="black", width=600)
+
+    option_menu = Menu(my_menu, tearoff=False)
+    my_menu.add_cascade(label="Option", menu=option_menu)
+    option_menu.add_command(label="Night on", command=night_on)
+    option_menu.add_command(label="Night off", command=night_off)
+
     window.mainloop()
-
-    # window = Tk()
-    # w_1 = LabelFrame(window)
-    #
-    #
-    # window.title("Aphorisms for every day")
-    # window.geometry("800x700")
-    # window.mainloop()
-
-    # suwak i oprawa graficzna
 
     with open('email.txt', 'r+') as e:
         email_receiver = e.read()
         if len(email_receiver) != 0:
-            sending_email(email_receiver, a)
+            sending_email(email_receiver, ap_t)
         else:
             email_receiver = input("Podaj email : ")  # uzależnić od interfejsu graficznego
             e.write(email_receiver)
-            sending_email(email_receiver, a)
+            sending_email(email_receiver, ap_t)
 
 
 def main():
