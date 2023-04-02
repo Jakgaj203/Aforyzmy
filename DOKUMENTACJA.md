@@ -96,6 +96,10 @@ Wojciech Jankowski - sprawdzenie kodu oraz sposobu działania aplikacji i wprowa
 Michał Furgała - uzupełnienie dokumentacji.
 ![obraz](https://user-images.githubusercontent.com/127214880/229371939-ce743246-4fe6-41ae-a6b1-b8376066ae17.png)
 
+
+![image](https://user-images.githubusercontent.com/127213234/229372186-ffa46860-f1b6-4843-afca-f7b71f6c84da.png)
+![image](https://user-images.githubusercontent.com/127213234/229372221-34bb83e4-75ea-421f-9027-7c67177252cb.png)
+
 ## Wnioski
 Przygotowując nasz projekt używaliśmy platformy "GitHub", która znacznie ułatwia współpracę i umożliwia, w szczególności programistom, pracowanie nad kodem w większym zespole. Użyliśmy również aplikacji "Discord", która umożliwia kontakt na odległość wielu osobom. Dzięki użyciu tych dwóch narzędzi mogliśmy szybko ułożyć plan działania, rozdzielić wszystkie zadania, a następnie wykonać projekt.
 
