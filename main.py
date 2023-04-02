@@ -115,7 +115,7 @@ def graphic_design(ap_t, list_last_aphorisms):
         if len(email_receiver) != 0:
             sending_email(email_receiver, ap_t)
         else:
-            email_receiver = input("Podaj email : ")  # uzależnić od interfejsu graficznego
+            email_receiver = input("Podaj email : ")
             e.write(email_receiver)
             sending_email(email_receiver, ap_t)
 
