@@ -18,7 +18,7 @@ Funkcjonalności:
 13.    Wysyłanie przypomnienia o codziennym aforyzmie na maila (ewentualnie: dostosowanie czcionki w aplikacji)
 
 ## Uczestnicy i podział ról
-Michał Furgała - software testing, debugging, organizacja dokumentacji
+Michał Furgała - organizacja dokumentacji
 
 Wojciech Jankowski (szef totalny) -  stworzenie zasadniczej części programu "Aforyzmy na każdy dzień" (poza GUI)
 
@@ -87,6 +87,13 @@ Michał Furgała - uzupełnienie dokumentacji.
 
 ## 29.03.2023r.
 Jakub Janik - uzupełnienie dokumentacji.
+
+## 02.04.2023r.
+Jakub Gajewski - opracowanie ostatecznego interfejsu graficznegoc m.in. dodanie tła dla napisu oraz dodanie ocji zmienienia trybu wyświetlania na ciemny.
+
+Wojciech Jankowski - sprawdzenie kodu oraz sposobu działania aplikacji i wprowadzenie ostatnich poprawek.
+
+Michał Furgała - uzupełnienie dokumentacji.
 
 ## Wnioski
 Przygotowując nasz projekt używaliśmy platformy "GitHub", która znacznie ułatwia współpracę i umożliwia, w szczególności programistom, pracowanie nad kodem w większym zespole. Użyliśmy również aplikacji "Discord", która umożliwia kontakt na odległość wielu osobom. Dzięki użyciu tych dwóch narzędzi mogliśmy szybko ułożyć plan działania, rozdzielić wszystkie zadania, a następnie wykonać projekt.
