@@ -94,6 +94,7 @@ Jakub Gajewski - opracowanie ostatecznego interfejsu graficznegoc m.in. dodanie 
 Wojciech Jankowski - sprawdzenie kodu oraz sposobu działania aplikacji i wprowadzenie ostatnich poprawek.
 
 Michał Furgała - uzupełnienie dokumentacji.
+![obraz](https://user-images.githubusercontent.com/127214880/229371939-ce743246-4fe6-41ae-a6b1-b8376066ae17.png)
 
 ## Wnioski
 Przygotowując nasz projekt używaliśmy platformy "GitHub", która znacznie ułatwia współpracę i umożliwia, w szczególności programistom, pracowanie nad kodem w większym zespole. Użyliśmy również aplikacji "Discord", która umożliwia kontakt na odległość wielu osobom. Dzięki użyciu tych dwóch narzędzi mogliśmy szybko ułożyć plan działania, rozdzielić wszystkie zadania, a następnie wykonać projekt.
