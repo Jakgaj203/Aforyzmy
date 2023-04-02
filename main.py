@@ -90,6 +90,23 @@ def graphic_design(ap_t, list_last_aphorisms):
     button_send = Button(window, text="Wyślij na ten mail", command=save_text)
     my_canva.create_window(840, 460, window=button_send)
 
+    # Ocena aforyzmu :
+    good, bad = 0, 0
+
+    def rating_good():
+        nonlocal good, bad
+        good, bad = 1, 0
+
+    def rating_bad():
+        nonlocal bad, good
+        good, bad = 0, 1
+
+    bad_button = Button(window, text="Bad", command=rating_bad)
+    my_canva.create_window(1240, 20, window=bad_button)
+
+    good_button = Button(window, text="Good", command=rating_good)
+    my_canva.create_window(1200, 20, window=good_button)
+
     # Opcja dark i light mode
     def night_on():
         my_canva.create_image(0, 0, image=bg[1], anchor="nw")
@@ -119,13 +136,14 @@ def graphic_design(ap_t, list_last_aphorisms):
             e.write(email_receiver)
             sending_email(email_receiver, ap_t)
 
+    return good, bad
+
 
 def main():
     filepath_1 = "data_one_hundred_aphorisms.txt"
     filepath_2 = "aphorisms_used_before.txt"
 
     with open(filepath_1, "r", encoding="UTF-8") as d_1, open(filepath_2, "r+", encoding="UTF-8") as d_2:
-
         aphorisms = d_1.readlines()
         last_aphorisms = d_2.readlines()
 
@@ -134,8 +152,17 @@ def main():
                 aphorism_today = choice(aphorisms)
                 if (last_aphorisms == []) or (aphorism_today not in [i[13:] for i in last_aphorisms]):
                     break
-            d_2.write(date_today + " - " + aphorism_today)
-            graphic_design(aphorism_today, last_aphorisms)
+
+            good, bad = graphic_design(aphorism_today, last_aphorisms)
+
+            # Słaby / dobry aforyzm
+
+            if good != 0:
+                d_2.write(date_today + " - " + aphorism_today[:-2] + " (good)\n")
+            elif bad != 0:
+                d_2.write(date_today + " - " + aphorism_today[:-2] + " (bad)\n")
+            else:
+                d_2.write(date_today + " - " + aphorism_today[:-2] + " ( - )\n")
 
 
 main()
