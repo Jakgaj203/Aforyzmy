@@ -89,7 +89,7 @@ Michał Furgała - uzupełnienie dokumentacji.
 Jakub Janik - uzupełnienie dokumentacji.
 
 ## 02.04.2023r.
-Jakub Gajewski - opracowanie ostatecznego interfejsu graficznegoc m.in. dodanie tła dla napisu oraz dodanie ocji zmienienia trybu wyświetlania na ciemny.
+Jakub Gajewski - opracowanie ostatecznego interfejsu graficznegoc m.in. dodanie tła dla napisu oraz dodanie opcji zmienienia trybu wyświetlania na ciemny.
 
 Wojciech Jankowski - sprawdzenie kodu oraz sposobu działania aplikacji i wprowadzenie ostatnich poprawek.
 
